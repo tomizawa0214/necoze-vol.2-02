@@ -1,0 +1,27 @@
+body {
+  position: relative;
+}
+
+img {
+  width: 100%;
+}
+
+.movie {
+  position: absolute;
+  width: 420px;
+  height: 728px;
+  top: 189px;
+  background-color: #000;
+}
+.step1 {
+  left: 20px;
+}
+.step2 {
+  left: 500px;
+}
+.step3 {
+  left: 980px;
+}
+.step4 {
+  left: 1460px;
+}
